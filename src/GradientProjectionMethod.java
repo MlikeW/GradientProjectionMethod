@@ -62,7 +62,7 @@ public class GradientProjectionMethod {
 
             //System.out.println("x = (" + x1 + ", " + x2 + ")\n");
         }
-        System.out.println("__________\nmin function(a) = " + min + "  for a = " + am + ",  x = (" + x1 + ", " + x2 + ")\n");
+        System.out.println("__________\nmin function(a) = " + min + "  for a = " + am + ",  x = (" + x1 + ", " + (int)x2 + ")\n");
     }
 
     public static void main(String[] args) {
@@ -72,6 +72,5 @@ public class GradientProjectionMethod {
         lessOrEqual.proc(lessOrEqual.lessOrEqual());
         equal.proc(equal.equal());
         moreOrEqual.proc(moreOrEqual.moreOrEqual());
-
     }
 }
