@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6574a1b4-d0b1-4ce6-afdc-bdec6cd3ccd5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/GradientProjectionMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradientProjectionMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task5/.idea/workspace.xml" afterDir="false" />
@@ -18,6 +18,7 @@
     <session id="1470191380">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -49,7 +50,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GradientProjectionMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="612">
               <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
               <folding>
                 <element signature="method#functionIter#0;class#GradientProjectionMethod#0" />
@@ -122,7 +123,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544194238710" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544196334776" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -162,12 +163,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544135122615</updated>
-      <workItem from="1544135138498" duration="10570000" />
+      <workItem from="1544135138498" duration="10924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10570000" />
+    <option name="totallyTimeSpent" value="10924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -187,7 +188,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43770492" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43770492" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -212,7 +213,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/GradientProjectionMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="612">
           <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
           <folding>
             <element signature="method#functionIter#0;class#GradientProjectionMethod#0" />
